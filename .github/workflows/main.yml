@@ -1,0 +1,3 @@
+name: Setup Jenkins
+uses: snow-actions/setup-jenkins@v1.1.0
+            
